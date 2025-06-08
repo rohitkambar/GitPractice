@@ -6,3 +6,4 @@ echo "Welcome to Bash scripting!"
 echo "how are you!"
 echo "Welcome to first changes in script"
 echo "Test for practical
+echo "some changes"
